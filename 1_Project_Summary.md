@@ -10,7 +10,7 @@ The information that you are going to find in this project summery is therefore 
 
 We are still planning on doing some research on the clover drone itself. This will mainly be on the stability and movability of the our drone. But we are going to start with investigating it on the Clover drone. So there might be a nice further collaboration on this. In addition, we are also trying to implement the codes for the Clover drone onto our drones. By doing this, we will also be able to provide some feedback on it and develop it further.
 
-Now we will give you a short summary of our results on the Path Planning Algorithm and the Hardware Research that we have done. For the full reports, you can go to that specific section in the documentation.
+Now we will give you a short summary of our results on the Path Planning Algorithm and the Hardware Research that we have done. For the full reports, you can go to this google drive: https://drive.google.com/drive/folders/1vfWjWD5Qx38mDta0PvMFvAv6jC-mxF7U?usp=sharing
 
 ## Path Planning Algorithm
 
